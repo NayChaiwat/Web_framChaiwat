@@ -1,0 +1,35 @@
+.staff1 {
+    text-align: center;
+    padding: 20px;
+    background: white;
+    border-radius: 10px; 
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2); 
+    width: fit-content;
+    filter: blur(0.5px); 
+    margin: auto;
+  }
+
+  .staff1 {
+    text-align: center;
+  }
+
+  .staff1 img {
+    max-width: 100%;
+    height: 100PX;
+    border-radius: 10px;
+  }
+
+  .staff2 {
+    text-align: center;
+    padding: 20px;
+    background: white;
+    border-radius: 10px; 
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2); 
+    width: fit-content;
+    filter: blur(0.5px); 
+    margin: auto;
+  }
+
+  .staff2 {
+    text-align: center;
+  }
